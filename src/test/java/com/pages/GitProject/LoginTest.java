@@ -1,7 +1,7 @@
 package com.pages.GitProject;
 
 public class LoginTest {
-	
+	int i =10;
 	
 	public void m1()
 	{

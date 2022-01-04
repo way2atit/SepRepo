@@ -2,6 +2,7 @@ package com.pages.GitProject;
 
 public class AdminTest {
 	
+	int i =100;
 	public void adminClick()
 	{
 		System.out.println("Admin Click");

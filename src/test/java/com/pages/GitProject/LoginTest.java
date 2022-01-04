@@ -3,6 +3,8 @@ package com.pages.GitProject;
 public class LoginTest {
 	int i =10;
 	
+	int j =10;
+	
 	public void m1()
 	{
 		System.out.println("call m1");

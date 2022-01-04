@@ -6,5 +6,9 @@ public class AdminTest {
 	{
 		System.out.println("Admin Click");
 	}
+	public void m2()
+	{
+		System.out.println("m2");
+	}
 
 }

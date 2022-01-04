@@ -3,6 +3,7 @@ package com.pages.GitProject;
 public class AdminTest {
 	
 	int i =100;
+	String name;
 	
 	public void adminClick()
 	{
